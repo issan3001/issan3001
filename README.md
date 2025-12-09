@@ -1,10 +1,3 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/issan3001/issan3001/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/issan3001/issan3001/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/issan3001/issan3001/output/pacman-contribution-graph.svg">
-</picture>
-
-
 <!-- 1. GitHub usernameを変更 -->
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=username" />
@@ -16,7 +9,7 @@
 
 - 🧑‍💻 I'm a backend engineer.
 - 🌱 I’m currently learning go!
-- 📫 How to reach me: [X - @username](https://x.com/JO4KVB_official)
+- 📫 How to reach me: [X - @JO4KVB](https://x.com/JO4KVB_official)
 <br>
 
 
